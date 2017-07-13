@@ -1,6 +1,6 @@
 #include "AppDelegate.h"
 #include "HelloWorldScene.h"
-#include "chooseScene.h"
+#include "../code/chooseDemoUI/chooseScene.h"
 USING_NS_CC;
 
 AppDelegate::AppDelegate() {
